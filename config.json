@@ -1,0 +1,32 @@
+{
+   "owner": "6285887776722",
+   "owner_name": "Wildan Izzudin",
+   "database": "void",
+   "limit": 10,
+   "limit_game": 50,
+   "multiplier": 89,
+   "min_reward": 100000,
+   "max_reward": 500000,
+   "ram_limit": "1.5gb",
+   "max_upload": 80,
+   "max_upload_free": 25,
+   "cooldown": 3,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "221", "263"],
+   "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
+   "setup": {
+      "multiprefix": true,
+      "prefix": [".", "#", "!", "/"],
+      "onlyprefix": "+",
+      "hidden": [],
+      "pluginDisable": []
+   },
+   "pairing": {
+      "state": true,
+      "number": 6285819846892
+   }
+}
